@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|c:\\users\\ezequ\\onedrive\\documentos\\des\\fiscal\\fiscal\\registro0000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\registro0000.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\fornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\spedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\spedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\spedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\spedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\conexaobd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\vendanfe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\vendanfe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\vendanfce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\vendanfce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\emitente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\emitente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\dadostcontabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\dadostcontabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\fiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\contabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\contabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\contabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\contabilista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\fiscal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\fiscal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\fiscal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{496B3BF2-50AC-409E-B283-90D17D907809}|Fiscal\\Fiscal.csproj|solutionrelative:fiscal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 392,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Estoque.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Estoque.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Estoque.cs",
+              "RelativeToolTip": "Fiscal\\Estoque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:29:05.749Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendaNfce.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\VendaNfce.cs",
+              "RelativeDocumentMoniker": "Fiscal\\VendaNfce.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\VendaNfce.cs",
+              "RelativeToolTip": "Fiscal\\VendaNfce.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwvyoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:34:10.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Cliente.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Cliente.cs",
+              "RelativeToolTip": "Fiscal\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:41:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpedInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\SpedInfo.cs",
+              "RelativeDocumentMoniker": "Fiscal\\SpedInfo.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\SpedInfo.cs",
+              "RelativeToolTip": "Fiscal\\SpedInfo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwCgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:59:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpedInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\SpedInfo.cs",
+              "RelativeDocumentMoniker": "Fiscal\\SpedInfo.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\SpedInfo.cs [Design]",
+              "RelativeToolTip": "Fiscal\\SpedInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:42:23.638Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fornecedores.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fornecedores.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Fornecedores.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fornecedores.cs",
+              "RelativeToolTip": "Fiscal\\Fornecedores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:02:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Compra.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Compra.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Compra.cs",
+              "RelativeToolTip": "Fiscal\\Compra.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAywJ8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T19:51:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendaNfe.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\VendaNfe.cs",
+              "RelativeDocumentMoniker": "Fiscal\\VendaNfe.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\VendaNfe.cs",
+              "RelativeToolTip": "Fiscal\\VendaNfe.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:28:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro0000.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Registro0000.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Registro0000.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Registro0000.cs",
+              "RelativeToolTip": "Fiscal\\Registro0000.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAA4wNkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:00:06.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConexaoBD.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\ConexaoBD.cs",
+              "RelativeDocumentMoniker": "Fiscal\\ConexaoBD.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\ConexaoBD.cs",
+              "RelativeToolTip": "Fiscal\\ConexaoBD.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:14:11.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Emitente.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Emitente.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Emitente.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Emitente.cs",
+              "RelativeToolTip": "Fiscal\\Emitente.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwMQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:43:24.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Fiscal.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Fiscal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.cs",
+              "RelativeToolTip": "Fiscal\\Fiscal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowFcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T03:07:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dadostContabilista.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\dadostContabilista.cs",
+              "RelativeDocumentMoniker": "Fiscal\\dadostContabilista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\dadostContabilista.cs",
+              "RelativeToolTip": "Fiscal\\dadostContabilista.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAwwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:34:32.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fiscal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Fiscal.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.cs [Design]",
+              "RelativeToolTip": "Fiscal\\Fiscal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:41:44.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contabilista.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Contabilista.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Contabilista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Contabilista.cs",
+              "RelativeToolTip": "Fiscal\\Contabilista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:43:33.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fiscal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.Designer.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Fiscal.Designer.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Fiscal.Designer.cs",
+              "RelativeToolTip": "Fiscal\\Fiscal.Designer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAUwO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:17:47.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\App.config",
+              "RelativeDocumentMoniker": "Fiscal\\App.config",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\App.config",
+              "RelativeToolTip": "Fiscal\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-29T14:01:50.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contabilista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Contabilista.cs",
+              "RelativeDocumentMoniker": "Fiscal\\Contabilista.cs",
+              "ToolTip": "C:\\Users\\ezequ\\OneDrive\\Documentos\\Des\\Fiscal\\Fiscal\\Contabilista.cs [Design]",
+              "RelativeToolTip": "Fiscal\\Contabilista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:42:12.708Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
